@@ -5,5 +5,8 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "scripts": {
+    "publish": "npm publish --access public"
+  }
 }
