@@ -1,5 +1,9 @@
 {
   "name": "cra-template-eliasjnior",
   "version": "1.0.0",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
