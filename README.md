@@ -19,5 +19,5 @@ There's some specific rules for ESLint
 Just run the following command to create your project:
 
 ```bash
-yarn create react-app YOUR_PROJECT_NAME https://github.com/eliasjnior/cra-template-eliasjnior
+yarn create react-app YOUR_PROJECT_NAME --template eliasjnior
 ```
